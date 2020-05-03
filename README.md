@@ -1,5 +1,5 @@
 # xmlrpc-finder
-xmlrpc finder - is a simple python tool to find xmlrpc.php on list sites.
+xmlrpc finder - is a simple python tool to find xmlrpc.php wordpress file from list of sites.
 
 ## Supported Version
 ```
